@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 -->
 # 💫 About Me:
 I works with Java , Python and C++ mostly.<br>Currently indulge with  Kotlin.<br>Learning DSA and Web Development.<br>
-<img src='![image](https://github.com/David-07Guru/David-07Guru/assets/140835738/953df2e1-e366-47d1-a6b6-145ed265e7ec)
-' style="height: 400px;"/>
+<img src='https://gifs.alphacoders.com/gifs/view/7232' style="height: 400px;"/>
 
 
 ## 🌐 Socials:
