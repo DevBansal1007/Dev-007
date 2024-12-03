@@ -1,5 +1,5 @@
 # 💫 About Me:
-I works with Java , Python and C++ mostly.<br>Currently indulge with Java and JS.<br>Learning DSA and Web Development.
+I works with Java , Python and C++ mostly.<br>Currently indulge with Java and Python.<br>Learning DSA and Data Science.
 
 
 ## 🌐 Socials:
